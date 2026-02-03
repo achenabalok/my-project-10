@@ -1,0 +1,35 @@
+{
+  "image_prompt": {
+    "main_subject": "Whole roasted chicken stuffed with walnut and pomegranate sauce (Levengi)",
+    "plating_and_presentation": {
+      "dish": "Rustic ceramic plate",
+      "texture": "Golden glossy skin, rich caramelized texture",
+      "effects": "Soft steam rising"
+    },
+    "infographic_composition": {
+      "style": "Editorial food infographic with floating ingredients",
+      "arrangement": "Ingredients suspended above the dish neatly",
+      "graphic_elements": "Thin connector lines, minimalist labels in Azerbaijani",
+      "levitating_items": [
+        "Walnuts",
+        "Pomegranate molasses (Narşərab)",
+        "Onion",
+        "Cilantro",
+        "Spices",
+        "Pepper",
+        "Love/Heart symbol"
+      ]
+    },
+    "lighting_and_atmosphere": {
+      "lighting": "Warm studio lighting",
+      "background": "Dark moody background",
+      "contrast": "High contrast",
+      "shadows": "Natural shadows"
+    },
+    "technical_specs": {
+      "style": "Ultra-realistic cinematic food photography",
+      "camera_settings": "Shallow depth of field, sharp focus on chicken",
+      "quality": "8K detail, professional DSLR look"
+    }
+  }
+}
